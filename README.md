@@ -30,4 +30,4 @@ I'm an undergraduate student majoring in Computer Science and Engineering. I'm i
 
 📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/gaurav-g-701075149/)
 
-🎉 Fun fact: Sometimes I blog on [HashNode](https://hashnode.com/@Rakurai) and [Dev.to]([Gaurav Gupta - DEV Community](https://dev.to/gauravgupta)) too.
+🎉 Fun fact: Sometimes I blog on [HashNode](https://hashnode.com/@Rakurai) and [Dev.to](https://dev.to/gauravgupta) too.
