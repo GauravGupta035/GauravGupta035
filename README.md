@@ -14,7 +14,11 @@ I'm an undergraduate student majoring in Computer Science and Engineering. I'm i
 <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png" alt="css" height="50" data-align="inline" />
 
 <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png" alt="javascript" height="50" data-align="inline" />
+  
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/dart/dart.png" alt="dart" height="50" data-align="inline" />
 </p>
+
+<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/flutter/flutter.png" alt="flutter" height="50" data-align="inline" />
 
 ### 🔬 What am I learning right now?
 
