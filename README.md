@@ -1,37 +1,33 @@
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 ### Hi there 👋 I'm Gaurav Gupta
 
-I'm an undergraduate student majoring in Computer Science and Engineering. I'm interest in Design and Development.
+I'm an undergraduate student majoring in Computer Science and Engineering.
 
-#### 👨‍💻 Which languages do I code in?
+#### 👨‍💻 What I use nowadays:
 
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" height="50" data-align="inline" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=TypeScript&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-559134?style=flat&logo=MongoDB&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Git](https://img.shields.io/badge/Git-f34f29?style=flat&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=GitHub&logoColor=white)
 
-<img title="" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/python/python.png" alt="python" height="50" data-align="inline">
+#### 🤹 Other languages and tools I use:
 
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/html/html.png" alt="HTML" height="50" data-align="inline" />
-
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/css/css.png" alt="css" height="50" data-align="inline" />
-
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/javascript/javascript.png" alt="javascript" height="50" data-align="inline" />
-  
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/dart/dart.png" alt="dart" height="50" data-align="inline" />
-</p>
-
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/flutter/flutter.png" alt="flutter" height="50" data-align="inline" />
-
-#### 🔬 What am I learning right now?
-
-<p>
-  <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/mongodb/mongodb.png" alt="mongoDB" height="50" />
-
-  <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/express/express.png" alt="express" height="50" data-align="inline" />
-
-  <img title="react" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/react/react.png" alt="react" height="50" data-align="inline">
-
-  <img title="node" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" height="50" data-align="inline" >
-</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-c76395?style=flat&logo=Sass&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-9d56f7?style=flat&logo=Figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-004fc6?style=flat&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-004fc6?style=flat&logo=Confluence&logoColor=white)
 
 📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/gaurav-g-701075149/)
+
+🤫 You can also  checkout my portfolio [here](https://gauravgupta035.github.io/Portfolio/)
 
 🎉 Fun fact: Sometimes I blog on [HashNode](https://hashnode.com/@Rakurai) and [Dev.to](https://dev.to/gauravgupta) too.
