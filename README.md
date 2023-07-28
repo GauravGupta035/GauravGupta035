@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Gaurav Gupta
 
-I'm an undergraduate student majoring in Computer Science and Engineering.
+I'm a Computer Science engineer who plays Table Tennis and watches F1!🏎️
 
 #### 👨‍💻 What I use nowadays:
 
